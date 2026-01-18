@@ -1,30 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Arming yourself against misleading visuals",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Time is money. An all-too-common phrase in many a corporate environment. And one that can trickle down into the day-to-day vernacular of the everyday individual. When time is a precious resource and there is a need to quickly and concisely convey larges amounts of information, what better way to do that but by using a visualization? Afterall, what may take several minutes, at a minimum, for someone to parse through an excel spreadsheet, can be presented quickly in a well-constructed graph.\nSince we all have different capabilities and comfort levels when it comes to numbers, we can minimize human error and enhance the message the presenter would like to make through visualizations. However, in this money-driven world, rife with scams and charlatans, a trustworthy and accurate visualization is essential. Every investor, whether through an advisor or self-directed, should equip themselves with the ability to discern a good visualization from a poor one. It may seem daunting at first, but with practice and being aware of the following few things to look out for, many can ask the right questions and avoid making incorrect assumptions."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "objectID": "posts/welcome/index.html#what-makes-a-good-visualization",
+    "href": "posts/welcome/index.html#what-makes-a-good-visualization",
+    "title": "Arming yourself against misleading visuals",
+    "section": "What makes a good visualization?",
+    "text": "What makes a good visualization?\nA good visualization can be thought of as a useful communication tool. It takes something, like a large spreadsheet, and helps communicate what is going on. This can be illustrating what is already known (e.g. sales are increases). Or it can help uncover unknown trends (e.g. where are sales increasing). Like a good presenter, the visualization needs to be able to communicate its message without the need for flashy tricks and complex explanations (of course, domain-specific). It does so by presenting the underlying data as it is, free of any manipulation.\nOf course, since a visualization can’t create itself, it relies on a human to put it together. And as we are all aware, humans can make mistakes. These mistakes could be done intentionally, with the sole aim of misleading its audience. But they may also be made simply by someone who doesn’t know any better. Regardless of the motive, decisions based on poor visualizations can significantly impact the observer. However, not is all lost, because they can arm themselves against some of the more common mistakes made."
+  },
+  {
+    "objectID": "posts/welcome/index.html#what-to-be-on-the-lookout-for",
+    "href": "posts/welcome/index.html#what-to-be-on-the-lookout-for",
+    "title": "Arming yourself against misleading visuals",
+    "section": "What to be on the lookout for?",
+    "text": "What to be on the lookout for?\nHere are a few things to be aware of the next time you are presented with a visualization. And it doesn’t have to be related to your latest stock pick, but anytime a chart comes your way.\n\nCheck the Axes\n\n\nThis will most-likely refer to the x- and y-axis – the horizontal and vertical lines on a graph. They can be found on the bottom and left, respectively.\nThese can have lots done to them to hide and obscure the real message, but let’s start simple.\nCheck where each start and ends. If an axis starts at a non-zero value, this can lead to exaggerating differences between data points. By zooming in, small differences between data can become more pronounced than they would be if the axes were kept at zero. Of course, it may not be feasible/appropriate to start at zero, but remember, the more zoomed in, the more distorted the message can become.\nAlso check the scale of the axes. Just because a chart may have a line that points up doesn’t mean that the underlying data follows that trend. The creator may have transformed the data. Look at how each axis is incremented; does the author mention anything? However, just because this is done, doesn’t mean the visualization is bad. There are appropriate times where it is done; just be aware.\n\n\nToo much information\n\n\nIf you’ve ever walked into a store and been overwhelmed with choice, this is what a busy, overcrowded visualization can feel like. What’s important? What’s not important? How is everything related?\nIn these cases, it is best to pause – to not feel rushed into making assumptions or acting. In extreme cases, it may be disregarding the visualization. Although this may be the outcome, check to see if there are proper explanations, or other graphics that break things down.\n\n\nNot enough information\n\n\nOn the other end of the spectrum, what is not being said? A business may present a wonderfully simple chart, with a line showing revenue increasing, but that’s it. On the surface, this is easy to interpret, however, ask yourself what is not being shown. Where is the line for expenses? What does profit look like? This will allow you to fill in those missing blanks.\n\n\nEnough information, but…\n\n\nEven if there appears to be a responsible level of detail being presented, there could still be the possibility that the full message isn’t being told. In these cases, having some domain knowledge related to the visualization can be helpful.\nIf we extend our previous example, a chart can show revenue, expenses, profit and appear to be comprehensive, but when we look closer, we see only the past few months of profitability. (This goes back to our discussion on axes!)\n\n\nAm I being manipulated?\n\n\nThis one may sound a bit nefarious, but it’s better to be cautious than to bear the consequences of casually believing every visual that comes your way. Think of it as exercising a healthy dose of scepticism.\nThink about what is being shown to you. Companies, large and small, all have motives. Not everyone is trying to be manipulative, but a large amount of money is spent on marketing every year: everyone is managing the message. And the visualizations that come your way are not immune to these effects.\nTake a moment to look at the colours being used. What are the words that are being used. Are they eliciting a reaction? Perhaps, they are leading you to a certain conclusion.\n\n\nIs this visualization for me?\n\n\nIt’s very possible that the visualization did not have you as its target audience in mind – which is alright! Not everyone is going to be an expert in creating visualizations for everyone. Perhaps you stumbled across a more niche-focused visualization. It could be a perfect learning opportunity, to look for the afore mentioned areas, or simply move on by.\n\n\nIt’s just bad.\n\n\nAll in the title. There will be times that no amount of trying to look at a visualization will result in finding redeeming qualities or understanding it. (I’m looking at you, 3-D pie chart with way too many categories!)\n\nNow that you are aware of some ways to better assess visualizations, don’t let that stop you from engaging with one at the sign of first offence. This is a perfect time to ask questions; refer to more than one source: to clarify and to confirm. And remember, there is never the need to rush into making any final decisions when the picture isn’t clear enough for you."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "542-blog",
+    "title": "542 Communications Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 14, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 11, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Arming yourself against misleading visuals\n\n\n\nblog\n\n542\n\n\n\n\n\n\n\n\n\nJan 17, 2026\n\n\nWB\n\n\n\n\n\nNo matching items"
   }
 ]

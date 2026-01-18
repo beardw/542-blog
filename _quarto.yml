@@ -3,20 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "542-blog"
+  title: "Let's Learn About Communications"
   navbar:
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
 format:
   html:
     theme:
       - cosmo
       - brand
     css: styles.css
-
-
-
